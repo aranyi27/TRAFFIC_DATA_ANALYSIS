@@ -1,2 +1,2 @@
-# TRAFFIC_DATA_ANALYSIS
+# SALES_PROJECT_POWERBI
 Analysis of a Traffic dataset, which contains various factors that possibly causes accidents to create an EDA that would help us prevent such accidents with help of Python and Power BI.
